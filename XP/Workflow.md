@@ -21,11 +21,11 @@
 
 | Objetivos                                      | Actividades                                                                                                       | Participantes                      | Revisado por         |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------|----------------------|
-| - Definir los requisitos del sistema.          | 1. Definición de Requisitos: <br> - Reunión con el cliente para identificar y documentar los requisitos del sistema. <br> - Elaboración de un documento detallado de requisitos. | Joselyn Pilco, Mateo, Developers   | Tracker              |
-| - Establecer las funcionalidades clave del proyecto. | 2. Priorización de Funcionalidades: <br> - Revisión de los requisitos identificados. <br> - Priorización de las funcionalidades basadas en la importancia y viabilidad. | Joselyn Pilco, Mateo, Tracker      | Tracker              |
-| - Crear historias de usuario y criterios de aceptación. | 3. Historias de Usuario y Criterios de Aceptación: <br> - Creación de historias de usuario y criterios de aceptación para cada historia. | Joselyn Pilco, Mateo               | Tracker              |
-| - Establecer el plan de lanzamiento.           | 4. Plan de Lanzamiento: <br> - Establecimiento de fechas y entregables para el lanzamiento. | Mateo, Tracker                    | Tracker              |
-| - Priorizar las tareas y establecer el plan de iteraciones. | 5. Planificación de Iteraciones: <br> - Establecimiento del plan de trabajo para cada iteración. <br> - Asignación de tareas a los miembros del equipo. | Joselyn Pilco, Mateo, Tracker      | Tracker              |
+| - Definir el Documento de Visión del proyecto. | Documento de Visión: <br> - Creación del Documento de Visión que incluye el tema, objetivos, alcance y requisitos generales del sistema. | Joselyn Pilco, Mateo               | Tracker              |
+| - Establecer las funcionalidades clave del proyecto. |  Priorización de Funcionalidades: <br> - Revisión de los requisitos identificados. <br> - Priorización de las funcionalidades basadas en la importancia y viabilidad. | Joselyn Pilco, Mateo      | Tracker              |
+| - Crear historias de usuario y criterios de aceptación. |  Historias de Usuario y Criterios de Aceptación: <br> - Creación de historias de usuario y criterios de aceptación para cada historia. | Joselyn Pilco, Mateo               | Tracker              |
+| - Establecer el plan de lanzamiento.           |  Plan de Lanzamiento: <br> - Establecimiento de fechas y entregables para el lanzamiento. | Mateo, Tracker                    | Tracker              |
+| - Priorizar las tareas y establecer el plan de iteraciones. |  Planificación de Iteraciones: <br> - Establecimiento del plan de trabajo para cada iteración. <br> - Asignación de tareas a los miembros del equipo. | Joselyn Pilco, Mateo     | Tracker              |
 
 ### Fase de Diseño
 
