@@ -3,6 +3,7 @@
 -----
 ## Iteración 1: Fundación del Sistema
 **Fecha de Inicio:** 08 de junio de 2024
+
 **Fecha de Fin:** 09 de junio de 2024
 
 ### Objetivos
@@ -19,6 +20,7 @@
 
 ## Iteración 2: Mejora y Optimización
 **Fecha de Inicio:** 10 de junio de 2024
+
 **Fecha de Fin:** 11 de junio de 2024
 
 ### Objetivos
@@ -34,14 +36,3 @@
 - Preparación para el lanzamiento final y despliegue.
 
 -----
-## Lanzamiento Final
-**Fecha:** 16 de junio de 2024
-
-### Objetivos
-- Desplegar la versión final del gestor de tareas.
-- Asegurar que todas las funcionalidades estén operativas y sin errores críticos.
-- Iniciar la etapa de mantenimiento y soporte post-lanzamiento.
-
-### Resultados Esperados
-- Aplicación en producción con usuarios activos.
-- Plan de soporte y mantenimiento establecido.
