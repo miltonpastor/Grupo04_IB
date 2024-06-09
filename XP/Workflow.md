@@ -8,7 +8,7 @@
 | Cliente         | Joselyn Pilco          |
 | Tracker         | Joselyn Pilco          |
 | Coach           | Mateo                  |
-| Diseñadores     | Brandon Oña, Milton Pastor |
+| Developers     | Brandon Oña, Milton Pastor |
 | Developers      | Jhon Meza, Adrian Paguay|
 | Tester          | Jhon Meza, Adrian Paguay|
 
