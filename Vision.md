@@ -1,5 +1,3 @@
-# Documento de Visión
-
 
 # Documento de Visión y Alcance
 
