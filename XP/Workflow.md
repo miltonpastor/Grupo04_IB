@@ -31,10 +31,10 @@
 
 | Objetivos                              | Actividades                                                                                   | Participantes                        | Revisado por         |
 |----------------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------|----------------------|
-| - Diseñar la arquitectura del sistema. |1. Elaboración de diagrama de clases. | Brandon Oña, Milton Pastor           | Tracker              |
+| - Diseñar la arquitectura del sistema. |Elaboración de diagrama de clases. | Brandon Oña, Milton Pastor           | Tracker              |
 | - Crear diagrama conceptual . | Creación de un diagrama conceptual para proporcionar una visión general clara de la arquitectura y la estructura del sistema. | Brandon Oña, Milton Pastor           | Tracker              |
 | - Creación de Tarjetas de tareas (CRC) | Creación de tarjetas de tareas (CRC) para definir las responsabilidades de cada clase en el sistema. | Brandon Oña, Milton Pastor | Tracker              |
-| - Prototipos                            | 4. Prototipos: <br> - Creación de prototipos de las interfaces de usuario y funcionalidades clave. | Brandon Oña, Milton Pastor           | Tracker              |
+| - Prototipos                            |Creación de prototipos de las interfaces de usuario y funcionalidades clave. | Brandon Oña, Milton Pastor           | Tracker              |
 
 ### Fase de Codificación
 
