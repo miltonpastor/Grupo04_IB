@@ -55,12 +55,11 @@ El proyecto abarcará las siguientes funcionalidades:
 - **Desarrolladores**: Equipo encargado del desarrollo del sistema.
 - **Testers**: Equipo encargado de asegurar la calidad del sistema.
 - **Diseñadores**: Equipo encargado de la recolección de requisitos y análisis del sistema.
-- **Coach: Persona encargada de brindar orientación y apoyo al equipo de desarrollo.
-- **Tracker: Persona encargada de mantener el seguimiento y la organización del trabajo del equipo
+- **Coach**: Persona encargada de brindar orientación y apoyo al equipo de desarrollo.
+- **Tracker**: Persona encargada de mantener el seguimiento y la organización del trabajo del equipo
 
 ### 5. Requisitos Generales del Sistema
 - **Interfaz de Usuario**: Aplicación local accesible desde la línea de comandos.
-- **Seguridad**: Manejo básico de autenticación mediante nombres de usuario y contraseñas.
 - **Almacenamiento**: Uso de almacenamiento local para guardar datos de usuarios y tareas.
 - **Plataforma**: Desarrollado para ejecutarse en cualquier sistema operativo con terminal de línea de comandos (Windows, Linux, MacOS).
 ## 6. Prototipos de Interfaz
