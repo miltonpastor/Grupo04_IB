@@ -32,19 +32,19 @@
 | Objetivos                              | Actividades                                                                                   | Participantes                        | Revisado por         |
 |----------------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------|----------------------|
 | - Diseñar la arquitectura del sistema. | 1. Diseño de Arquitectura: <br> - Definición de la arquitectura del sistema, incluyendo componentes y tecnologías a utilizar. <br> - Elaboración de diagramas UML. | Brandon Oña, Milton Pastor           | Tracker              |
-| - Crear los diseños de interfaz de usuario. | 2. Creación de Wireframes: <br> - Diseño de la interfaz de usuario utilizando herramientas de diseño. | Brandon Oña, Milton Pastor           | Tracker              |
-| - Especificar los detalles técnicos del proyecto. | 3. Especificación Técnica: <br> - Documentación detallada de las especificaciones técnicas del proyecto. | Brandon Oña, Milton Pastor           | Tracker              |
-| - Historias de Usuario y Tarjetas de tareas (CRC) | 4. Historias de Usuario y Tarjetas de tareas (CRC): <br> - Creación de historias de usuario y tarjetas CRC. | Joselyn Pilco, Brandon Oña, Milton Pastor | Tracker              |
-| - Prototipos                            | 5. Prototipos: <br> - Creación de prototipos de las interfaces de usuario y funcionalidades clave. | Brandon Oña, Milton Pastor           | Tracker              |
+| - Crear diagrama conceptual . | Creación de un diagrama conceptual para proporcionar una visión general clara de la arquitectura y la estructura del sistema. | Brandon Oña, Milton Pastor           | Tracker              |
+| - Creación de Tarjetas de tareas (CRC) | Creación de tarjetas de tareas (CRC) para definir las responsabilidades de cada clase en el sistema. | Brandon Oña, Milton Pastor | Tracker              |
+| - Prototipos                            | 4. Prototipos: <br> - Creación de prototipos de las interfaces de usuario y funcionalidades clave. | Brandon Oña, Milton Pastor           | Tracker              |
 
 ### Fase de Codificación
 
 | Objetivos                                  | Actividades                                                                                                  | Participantes                          | Revisado por         |
 |--------------------------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------------------|----------------------|
-| - Implementar las funcionalidades del sistema. | 1. Implementación de Funcionalidades: <br> - Codificación de las funcionalidades según las especificaciones. <br> - Uso de buenas prácticas de desarrollo de software. | Jhon Meza, Adrian Paguay               | Tracker              |
-| - Garantizar la calidad del código mediante revisión y pruebas. | 2. Revisión de Código: <br> - Revisiones de código entre pares para garantizar calidad y consistencia. <br> - Corrección de errores y optimización del código. | Jhon Meza, Adrian Paguay               | Tracker              |
-| - Documento de estándares de programación   | 3. Documento de estándares de programación: <br> - Creación y revisión de un documento que defina los estándares de programación. | Jhon Meza, Adrian Paguay               | Tracker              |
-| - Refactorización                           | 4. Refactorización: <br> - Optimización y mejora del código existente para mejorar su calidad y mantenimiento. | Jhon Meza, Adrian Paguay               | Tracker              |
+| - Implementar las funcionalidades del sistema. |  Implementación de Funcionalidades: <br> - Codificación de las funcionalidades según las especificaciones. <br> - Uso de buenas prácticas de desarrollo de software. | Jhon Meza, Adrian Paguay               | Tracker              |
+| - Codigo Colectivo. | Revisión de Código: <br> - Revisiones de código entre pares para garantizar calidad y consistencia. <br> - Corrección de errores y optimización del código. | Jhon Meza, Adrian Paguay               | Tracker              |
+| - Documento de estándares de programación   |  Documento de estándares de programación: <br> - Creación y revisión de un documento que defina los estándares de programación. | Jhon Meza, Adrian Paguay               | Tracker              |
+| - Refactorización                           |  Refactorización: <br> - Optimización y mejora del código existente para mejorar su calidad y mantenimiento. | Jhon Meza, Adrian Paguay               | Tracker              |
+| - Integración del Código |  Integración del Código: <br> - Integración continua del código y ejecución de pruebas de integración para garantizar su calidad y mantenimiento. | Jhon Meza, Adrian Paguay | Tracker |
 
 ### Fase de Pruebas
 
@@ -52,7 +52,7 @@
 |--------------------------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------------------|----------------------|
 | - Realizar pruebas unitarias y de integración. | 1. Pruebas Unitarias y de Integración: <br> - Creación y ejecución de pruebas unitarias para cada componente. <br> - Integración continua del código y ejecución de pruebas de integración. | Jhon Meza, Adrian Paguay               | Tracker              |
 | - Pruebas funcionales                     | 2. Pruebas Funcionales: <br> - Ejecución de pruebas funcionales para verificar que el sistema cumple con los requisitos especificados. | Jhon Meza, Adrian Paguay               | Tracker              |
-| - Criterios de Aceptación                 | 3. Criterios de Aceptación: <br> - Definición y verificación de los criterios de aceptación para cada historia de usuario. | Jhon Meza, Adrian Paguay               | Tracker              |
+| - Pruebas Criterios de Aceptación                 | 3. Criterios de Aceptación: <br> - Definición y verificación de los criterios de aceptación para cada historia de usuario. | Jhon Meza, Adrian Paguay               | Tracker              |
 
 ### Entrega
 
