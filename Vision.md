@@ -43,10 +43,6 @@ El proyecto abarcará las siguientes funcionalidades:
 - Mostrar una lista de todas las tareas del usuario, separando tareas completadas de tareas pendientes.
 
   
-#### Mostrar Calendario con Tareas
-**Objetivo**: Permitir a los usuarios visualizar un calendario que muestre las tareas programada
-- Mostrar un calendario con las tareas programadas para cada día.
-- Permitir al usuario organizar mejor sus actividades diarias.
 
 ## 4. Stakeholders
 - **Clientes**: Usuarios finales que utilizarán el sistema.
