@@ -1,0 +1,3 @@
+En este commit tenemos los cambios iniciales del proyecto!
+
+https://github.com/JhonMG07/Notes-App--CRUD--NextJS/commit/f0cb159702653ff37402991953a8f6cc4952ad2f
