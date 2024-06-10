@@ -1,4 +1,4 @@
-# ----------- TEAM -------------------------
+# TEAM
 -----
 ## GR4-XXXXX
 -----
@@ -22,10 +22,10 @@ Nuestro gestor de tareas es como una orquesta bien afinada, donde cada instrumen
 - Realizar pruebas iniciales de usabilidad y funcionalidad.
 
   ## Funcionalidades  de la pagina
-  -Crear Tarea
-  -Editar Tarea
-  -Eliminar  Tarea
-  -Marcar Tarea como finalizada 
+  - Crear Tarea
+  - Editar Tarea
+  - Eliminar  Tarea
+  - Marcar Tarea como finalizada 
 
 ## Roles y Responsabilidades
 - **Adrian Paguay:** Analista de Calidad, Pruebas
