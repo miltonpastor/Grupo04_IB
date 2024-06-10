@@ -48,7 +48,6 @@ El proyecto abarcará las siguientes funcionalidades:
 - **Clientes**: Usuarios finales que utilizarán el sistema.
 - **Desarrolladores**: Equipo encargado del desarrollo del sistema.
 - **Testers**: Equipo encargado de asegurar la calidad del sistema.
-- **Diseñadores**: Equipo encargado de la recolección de requisitos y análisis del sistema.
 - **Coach**: Persona encargada de brindar orientación y apoyo al equipo de desarrollo.
 - **Tracker**: Persona encargada de mantener el seguimiento y la organización del trabajo del equipo
 
