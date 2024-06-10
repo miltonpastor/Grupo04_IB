@@ -32,13 +32,13 @@ Nuestro gestor de tareas es como una orquesta bien afinada, donde cada instrumen
 - **Mateo Pilco:** Planificación
 - **Joselyn Pilco:** Planificación
 - **Jhon Meza:** Desarrollador Frontend, Codificación
-- **Milton Pastor:** Administrador de Base de Datos, Diseño
-- **Brandon Oña:** Facilitador, Diseño
+- **Milton Pastor:** Diseño
+- **Brandon Oña:** Diseño
 
 ## Herramientas y Tecnologías
-- Lenguajes: Python
+- Lenguajes: JavaScript 
 - Almancen de  datos : local Storage 
 - Metodología: XP (Extreme Programming)
-- Herramientas de Colaboración: GitHub
+- Herramientas de Colaboración: GitHub, Draw.io, 
 - Frameworks: 
 
