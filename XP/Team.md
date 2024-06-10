@@ -1,9 +1,9 @@
-# TEAM - 1era Iteración
+# ----------- TEAM -------------------------
 -----
 ## GR4-XXXXX
 -----
 
-## Integrantes
+## Equipo Extreme Programing
 - Adrian Paguay (Codificación)
 - Mateo Pilco (Planificación)
 - Joselyn Pilco (Planificación)
@@ -21,6 +21,12 @@ Nuestro gestor de tareas es como una orquesta bien afinada, donde cada instrumen
 - Implementar la funcionalidad de creación, edición y eliminación de tareas.
 - Realizar pruebas iniciales de usabilidad y funcionalidad.
 
+  ## Funcionalidades  de la pagina
+  -Crear Tarea
+  -Editar Tarea
+  -Eliminar  Tarea
+  -Marcar Tarea como finalizada 
+
 ## Roles y Responsabilidades
 - **Adrian Paguay:** Analista de Calidad, Pruebas
 - **Mateo Pilco:** Planificación
@@ -31,7 +37,8 @@ Nuestro gestor de tareas es como una orquesta bien afinada, donde cada instrumen
 
 ## Herramientas y Tecnologías
 - Lenguajes: Python
-- Base de Datos: ?????
+- Almancen de  datos : local Storage 
 - Metodología: XP (Extreme Programming)
 - Herramientas de Colaboración: GitHub
+- Frameworks: 
 
