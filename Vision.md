@@ -1,7 +1,7 @@
 
 # Documento de Visión y Alcance
 
-## Proyecto: Sistema Gestor de Tareas
+## Proyecto: Sistema Gestor de Tareas   -  TASK APP
 
 ### 1. Tema
 El proyecto consiste en el desarrollo de un sistema que permita a los usuarios gestionar sus tareas diarias. El sistema  ofrecerá funcionalidades básicas para la creación, actualización, eliminación y marcación de tareas como completadas. La metodología XP se aplicará para asegurar un desarrollo ágil y eficiente, implementando sus principios y prácticas.
