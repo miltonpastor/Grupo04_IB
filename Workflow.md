@@ -6,11 +6,10 @@
 | Rol             | Persona                |
 |-----------------|------------------------|
 | Cliente         | Joselyn Pilco          |
-| Tracker         | Joselyn Pilco          |
-| Coach           | Mateo                  |
-| Developers     | Brandon Oña, Milton Pastor |
-| Developers      | Jhon Meza, Adrian Paguay|
-| Tester          | Jhon Meza, Adrian Paguay|
+| Analista         | Mateo                  |
+| Diseñadores     | Brandon Oña, Milton Pastor |
+| Desarrolladores      | Jhon Meza, Adrian Paguay|
+| Testers          | Jhon Meza, Adrian Paguay|
 
 
 ## Tiempo estimado : 2 Días 
