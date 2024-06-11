@@ -1,2 +1,0 @@
-Como ultimo refactor del codigo actualizamos la documentación 
-https://github.com/JhonMG07/Notes-App--CRUD--NextJS/commit/1ee204bb9a59e958b816780299a8c35afaa35ed9
