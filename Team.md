@@ -1,15 +1,15 @@
-# TEAM - 1era Iteración
+# TEAM
 -----
-## GR4-XXXXX
+## GR4-Innova Tech
 -----
 
-## Integrantes
-- Adrian Paguay (Codificación)
-- Mateo Pilco (Planificación)
-- Joselyn Pilco (Planificación)
-- Jhon Meza (Pruebas)
-- Milton Pastor (Diseño)
-- Brandon Oña (Diseño)
+## Equipo Extreme Programing
+- Adrian Paguay 
+- Mateo Pilco 
+- Joselyn Pilco 
+- Jhon Meza 
+- Milton Pastor 
+- Brandon Oña 
 
 ## Metáfora
 Nuestro gestor de tareas es como una orquesta bien afinada, donde cada instrumento representa una tarea específica y los músicos son los usuarios. El director de orquesta, que es la aplicación, asegura que todo funcione en armonía, dirigiendo a cada músico para que toque su parte en el momento adecuado, logrando así una sinfonía de productividad y eficiencia.
@@ -21,17 +21,24 @@ Nuestro gestor de tareas es como una orquesta bien afinada, donde cada instrumen
 - Implementar la funcionalidad de creación, edición y eliminación de tareas.
 - Realizar pruebas iniciales de usabilidad y funcionalidad.
 
+  ## Funcionalidades  de la pagina
+  - Crear Tarea
+  - Editar Tarea
+  - Eliminar  Tarea
+  - Marcar Tarea como finalizada 
+
 ## Roles y Responsabilidades
 - **Adrian Paguay:** Analista de Calidad, Pruebas
 - **Mateo Pilco:** Planificación
 - **Joselyn Pilco:** Planificación
 - **Jhon Meza:** Desarrollador Frontend, Codificación
-- **Milton Pastor:** Administrador de Base de Datos, Diseño
-- **Brandon Oña:** Facilitador, Diseño
+- **Milton Pastor:** Diseño
+- **Brandon Oña:** Diseño
 
 ## Herramientas y Tecnologías
-- Lenguajes: Python
-- Base de Datos: ?????
+- Lenguajes: JavaScript 
+- Almancen de  datos : local Storage 
 - Metodología: XP (Extreme Programming)
-- Herramientas de Colaboración: GitHub
+- Herramientas de Colaboración: GitHub, Draw.io, 
+- Frameworks: 
 

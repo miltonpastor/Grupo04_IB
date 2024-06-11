@@ -1,0 +1,3 @@
+En este commit del codigo tenemos la aplicación funcionando y se aplicaron varios refactors
+
+https://github.com/JhonMG07/Notes-App--CRUD--NextJS/commit/39d0b0f2c367acd736d8565a95ec61eb3c17500f

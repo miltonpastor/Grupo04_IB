@@ -42,23 +42,8 @@ El proyecto abarcará las siguientes funcionalidades:
 **Objetivo**: Permitir a los usuarios ver todas sus tareas.
 - Mostrar una lista de todas las tareas del usuario, separando tareas completadas de tareas pendientes.
 
-  
-#### Mostrar Calendario con Tareas
-**Objetivo**: Permitir a los usuarios visualizar un calendario que muestre las tareas programada
-- Mostrar un calendario con las tareas programadas para cada día.
-- Permitir al usuario organizar mejor sus actividades diarias.
+### 4. Requisitos Generales del Sistema
+- **Interfaz de Usuario**: Aplicación local accesible a través de un navegador web.
+- **Almacenamiento**: Uso de almacenamiento local para guardar datos de las tareas.
+- **Plataforma**: La aplicación debe ser compatible con cualquier sistema operativo que tenga un navegador web (Windows, Linux, MacOS).
 
-## 4. Stakeholders
-- **Clientes**: Usuarios finales que utilizarán el sistema.
-- **Desarrolladores**: Equipo encargado del desarrollo del sistema.
-- **Testers**: Equipo encargado de asegurar la calidad del sistema.
-- **Diseñadores**: Equipo encargado de la recolección de requisitos y análisis del sistema.
-- **Coach**: Persona encargada de brindar orientación y apoyo al equipo de desarrollo.
-- **Tracker**: Persona encargada de mantener el seguimiento y la organización del trabajo del equipo
-
-### 5. Requisitos Generales del Sistema
-- **Interfaz de Usuario**: Aplicación local accesible desde la línea de comandos.
-- **Almacenamiento**: Uso de almacenamiento local para guardar datos de usuarios y tareas.
-- **Plataforma**: Desarrollado para ejecutarse en cualquier sistema operativo con terminal de línea de comandos (Windows, Linux, MacOS).
-## 6. Prototipos de Interfaz
-Se incluirán diagramas y mockups en sesiones de diseño.
