@@ -7,7 +7,7 @@
 |-----------------|------------------------|
 | Cliente         | Joselyn Pilco          |
 | Analista         | Mateo                  |
-| Diseñadores     | Brandon Oña, Milton Pastor |
+| Desarrolladores     | Brandon Oña, Milton Pastor |
 | Desarrolladores      | Jhon Meza, Adrian Paguay|
 | Testers          | Jhon Meza, Adrian Paguay|
 
