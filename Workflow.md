@@ -49,9 +49,9 @@
 
 | Objetivos                                  | Actividades                                                                                                  | Participantes                          | Revisado por         |
 |--------------------------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------------------|----------------------|
-| - Realizar pruebas unitarias y de integración. | 1. Pruebas Unitarias y de Integración: <br> - Creación y ejecución de pruebas unitarias para cada componente. <br> - Integración continua del código y ejecución de pruebas de integración. | Jhon Meza, Adrian Paguay               | Tracker              |
-| - Pruebas funcionales                     | 2. Pruebas Funcionales: <br> - Ejecución de pruebas funcionales para verificar que el sistema cumple con los requisitos especificados. | Jhon Meza, Adrian Paguay               | Tracker              |
-| - Pruebas Criterios de Aceptación                 | 3. Criterios de Aceptación: <br> - Definición y verificación de los criterios de aceptación para cada historia de usuario. | Jhon Meza, Adrian Paguay               | Tracker              |
+| - Realizar pruebas unitarias y de integración. | 1. Pruebas Unitarias y de Integración: <br> - Creación y ejecución de pruebas unitarias para cada componente. <br> - Integración continua del código y ejecución de pruebas de integración. | Jhon Meza, Adrian Paguay               | Desarroladores ,Tester          |
+| - Pruebas funcionales                     | 2. Pruebas Funcionales: <br> - Ejecución de pruebas funcionales para verificar que el sistema cumple con los requisitos especificados. | Jhon Meza, Adrian Paguay               | Desarroladores ,Tester             |
+| - Pruebas Criterios de Aceptación                 | 3. Criterios de Aceptación: <br> - Definición y verificación de los criterios de aceptación para cada historia de usuario. | Jhon Meza, Adrian Paguay               | Desarroladores ,Tester ,cliente            |
 
 ### Entrega
 
