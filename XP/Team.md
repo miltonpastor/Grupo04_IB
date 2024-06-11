@@ -1,6 +1,6 @@
 # TEAM
 -----
-## GR4-XXXXX
+## GR4-Innova Tech
 -----
 
 ## Equipo Extreme Programing
