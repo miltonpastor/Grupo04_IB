@@ -14,7 +14,7 @@
 - Milton Pastor 
 - Brandon Oña 
 
-## Metáfora
-Nuestro gestor de tareas es como una orquesta bien afinada, donde cada instrumento representa una tarea específica y los músicos son los usuarios. El director de orquesta, que es la aplicación, asegura que todo funcione en armonía, dirigiendo a cada músico para que toque su parte en el momento adecuado, logrando así una sinfonía de productividad y eficiencia.
+## Metáfora - "Cuaderno  de Notas" 
+El gestor de tareas es como un cuaderno de notas donde puedes escribir tus tareas, tachar las completadas y hacer cambios según lo necesites. Este cuaderno es flexible y siempre está contigo, ayudándote a mantener un registro organizado de lo que necesitas hacer.
 
 
